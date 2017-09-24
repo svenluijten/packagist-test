@@ -1,0 +1,10 @@
+{
+    "name": "my_vendor/some_package",
+    "authors": [
+        {
+            "name": "Sven Luijten",
+            "email": "svenluijten1995@gmail.com"
+        }
+    ],
+    "require": {}
+}
